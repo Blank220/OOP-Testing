@@ -7,6 +7,7 @@ for i in range(1,11):
   print(f"{number} x {i} = {result}")
 
 
+
 while True:
     number = int(input("Enter a positive integer: "))
     if number < 0:
@@ -18,3 +19,4 @@ while True:
     print(factorial) 
     break
     
+

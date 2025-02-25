@@ -1,3 +1,7 @@
+TESTING TESTING 123 MIC TEST MIC TEST 123 
+
+TEST CODE:
+
 print("The Multiplication Table")
 
 number = int(input("")) 

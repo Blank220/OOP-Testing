@@ -53,7 +53,7 @@ change = cash - price
 if change == 0:
   print("You have no change, here's your ticket")
 elif change < 0:
-  print("Kulang ka ng bayad tanga")
+  print("Kulang ka ng bayad lods")
 else:
   print(f"Here's your change and ticket: {change}")
   
